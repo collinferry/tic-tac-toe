@@ -1,0 +1,54 @@
+body {
+  background-image: url("http://www.collinferry.com/codepen/parchment.jpg");
+  background-size: 100% auto;
+}
+
+.header {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-family: 'Chewy', cursive;
+  font-size: 5em;
+  color: #c0392b;
+}
+
+.container {
+   align-items: center;
+}
+
+.fixed-width { 
+    text-align: center;
+}
+
+.fixed-height {
+  height: 150px;
+}
+
+button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.footer {
+    text-align: center;
+}
+
+.bot {
+  margin: 4px;;
+}
+
+.credit {
+  margin: 20px;
+}
+
+a {
+  color: #c0392b;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #27ae60;
+}
